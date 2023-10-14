@@ -9,7 +9,7 @@
       stringNumber = "1006"
       token = "1B";
     }
-  }//BASKETBALL ROOMS
+  }//BASKET BALL ROOMS
 
   if (stringNumber.startsWith("1")) {
     if (stringNumber.startsWith("11") && (roomNumber >= 1101 && roomNumber <= 1114)) {
