@@ -147,13 +147,10 @@ height: 10vh;
         #footer div{
         height: 10vh;
         }
-
-
-    
-    
-
-  
 }
+
+
+
 
 @media only screen and (min-width:520px) and (max-width:720px){
 
@@ -223,6 +220,8 @@ height: 10vh;
    
   
 }
+
+
 
 @media only screen and (min-width:720px) and (max-width:1200px){
 
